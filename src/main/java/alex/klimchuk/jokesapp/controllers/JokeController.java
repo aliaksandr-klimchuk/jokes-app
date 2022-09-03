@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * Copyright Alex Klimchuk (c) 2022.
  */
-
 @Controller
 public class JokeController {
 
@@ -21,7 +20,7 @@ public class JokeController {
     @RequestMapping({"", "/"})
     public String showJoke(Model model) {
         model.addAttribute("joke", jokeService.getJoke());
-        return "index.html";
+        return "index";
     }
 
 }
