@@ -4,7 +4,7 @@ import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
 
 /**
- * Copyright Alex Klimchuk (c) 2022.
+ * Copyright Alex Klimchuk (c) 07.09.2021.
  */
 @Service
 public class JokeServiceImpl implements JokeService {
