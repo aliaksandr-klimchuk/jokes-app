@@ -1,4 +1,4 @@
-### CookBook
+### JokesApp
 This repository contains a Spring Boot example project which demonstrated simplest web app like Hello World.
 
 
