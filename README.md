@@ -14,9 +14,7 @@ a simple web application such as Hello World.
 ### Technologies:
 - Programming language: Java 11;
 - Frameworks:
-    - Spring (Boot, Core, Data, Web, Test);
-    - Hibernate.
-- Query language: SQL;
+    - Spring (Boot, Core, Data, Web, Test).
 - IDE: IntelliJ IDEA;
-- Tools: Lombok, Postman, Maven, Git, JDBC, JPA, HTTPs, XML, YAML, JSON;
+- Tools: Maven, Git, HTTPs, XML, YAML, JSON;
 - Others: GitHub, HTML, CSS, ThymeLeaf.
