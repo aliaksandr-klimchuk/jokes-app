@@ -1,4 +1,4 @@
-### JokesApp
+### Jokes App
 This repository contains a sample Spring Boot project that demonstrates
 a simple web application such as Hello World.
 
