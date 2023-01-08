@@ -15,7 +15,8 @@ jobs:
       - run:
           name: Run tests and collect coverage
           command: mvn -B test
-      - codecov/upload
+      - codecov/upload:
+          file: './codecov.yml'
 
 workflow:
   version: 2.1
