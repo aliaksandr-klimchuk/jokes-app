@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>alex.klimchuk</groupId>
     <artifactId>jokes-app</artifactId>
-    <version>0.0.7-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>jokes-app</name>
     <description>Chuck Norris Jokes</description>
 
