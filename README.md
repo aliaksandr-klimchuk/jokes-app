@@ -17,7 +17,7 @@ a simple web application such as Hello World.
   - Spring (Boot, Core, Data, WebMVC, Test).
 - IDE: IntelliJ IDEA;
 - Tools: Maven, Git, HTTPs, XML, YAML, JSON;
-- Others: GitHub, CircleCI, CodeCov, SonarCloud, HTML, CSS, ThymeLeaf.
+- Others: GitHub, CircleCI, CodeCov, SonarLint, SonarCloud, HTML, CSS, ThymeLeaf.
 
 [![CircleCI](https://circleci.com/gh/Crazy-pro/jokes-app.svg?style=svg)](https://app.circleci.com/gh/Crazy-pro/jokes-app)
 [![CodeCov](https://codecov.io/gh/Crazy-pro/jokes-app/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-pro/jokes-app)
