@@ -11,7 +11,6 @@ a simple web application such as Hello World.
 
 
 
-
 ### Technologies:
 - Programming language: Java 11;
 - Frameworks:
