@@ -1,4 +1,4 @@
-package alex.klimchuk.jokesapp.services;
+package alex.klimchuk.jokes.app.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;

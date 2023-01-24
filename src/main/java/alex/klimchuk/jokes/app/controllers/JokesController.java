@@ -1,6 +1,6 @@
-package alex.klimchuk.jokesapp.controllers;
+package alex.klimchuk.jokes.app.controllers;
 
-import alex.klimchuk.jokesapp.services.JokesService;
+import alex.klimchuk.jokes.app.services.JokesService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
