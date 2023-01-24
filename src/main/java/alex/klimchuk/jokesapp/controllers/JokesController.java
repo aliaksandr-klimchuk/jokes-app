@@ -1,6 +1,6 @@
 package alex.klimchuk.jokesapp.controllers;
 
-import alex.klimchuk.jokesapp.services.JokeService;
+import alex.klimchuk.jokesapp.services.JokesService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -9,17 +9,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Copyright Alex Klimchuk (c) 07.09.2021.
  */
 @Controller
-public class JokeController {
+public class JokesController {
 
-    private final JokeService jokeService;
+    private final JokesService jokesService;
 
-    public JokeController(JokeService jokeService) {
-        this.jokeService = jokeService;
+    public JokesController(JokesService jokesService) {
+        this.jokesService = jokesService;
     }
 
     @RequestMapping({"", "/"})
     public String showJoke(Model model) {
-        model.addAttribute("joke", jokeService.getJoke());
+        model.addAttribute("joke", jokesService.getJoke());
         return "/index";
     }
 
