@@ -2,7 +2,7 @@
 This repository contains a sample Spring Boot project that demonstrates
 a simple web application such as Hello World.   
 
-
+ 
 
 ### How to start:
 1. Install and run any IDE for working with Java.
